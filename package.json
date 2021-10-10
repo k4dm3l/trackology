@@ -1,0 +1,20 @@
+{
+  "name": "trackology",
+  "version": "1.0.0",
+  "description": "Get information from request for audit process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "audit",
+    "request",
+    "middleware"
+  ],
+  "author": "Camilo Acevedo",
+  "license": "MIT",
+  "dependencies": {
+    "@maxmind/geoip2-node": "^3.2.0",
+    "geoip-lite": "^1.4.2"
+  }
+}
