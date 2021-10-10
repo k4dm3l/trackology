@@ -1,8 +1,12 @@
 {
   "name": "trackology",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get information from request for audit process",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k4dm3l/trackology"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
