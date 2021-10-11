@@ -1,6 +1,6 @@
 {
   "name": "trackology",
-  "version": "1.1.2",
+  "version": "1.2.2",
   "description": "Get information from request for audit process",
   "main": "index.js",
   "repository": {
